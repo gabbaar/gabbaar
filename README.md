@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabbaar
 - 👀 I’m interested in Web Devlopment- 🌱 I’m currently learning Spring Boot 
-I have knowlwdge of Spring + MongoDB + MicroService + SQL + JQuery + HTML + JSP + TheamLeaf + Git + SubVersion +
+I have knowlwdge of Spring + MongoDB + MicroService + SQL + JQuery + HTML + JSP + TheamLeaf + Git + SubVersion 
 - 💞️ I’m looking to collaborate on New Projects + FreeLancer
 
 <!---
